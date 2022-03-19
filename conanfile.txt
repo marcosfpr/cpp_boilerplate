@@ -1,7 +1,7 @@
 [requires]
 boost/1.78.0
 gtest/1.11.0
-
+doxygen/1.9.2
 
 [generators]
 cmake
